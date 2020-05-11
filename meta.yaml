@@ -4,7 +4,7 @@ name: vscode-vim
 version: 1.14.1                 
 type: VS Code Extension
 displayName: Vim
-title:Visual Studio Code Vim
+title: Visual Studio Code Vim
 description: VS Code Vim extension ported for Eclipse Che!
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 repository: https://github.com/VSCodeVim/Vim.git
